@@ -4,7 +4,6 @@
 // Definição e operações em uma fila genérica.
 
 // ESTE ARQUIVO NÃO DEVE SER MODIFICADO - ELE SERÁ SOBRESCRITO NOS TESTES
-
 #ifndef __QUEUE__
 #define __QUEUE__
 
